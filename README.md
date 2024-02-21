@@ -36,7 +36,7 @@
    macro avg       0.94      0.94      0.94     10000
 weighted avg       0.94      0.94      0.94     10000
 ```
-Результати навчання (Confuson Matrix)
+Результати навчання (Confusion Matrix)
 
 ![hw-08-confm](hw-08-confm.png)
 

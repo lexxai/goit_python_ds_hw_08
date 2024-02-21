@@ -15,15 +15,15 @@
 - Зробити висновки.
 
 # Результати
-Архітектура нейронної мережі
-
+## Архітектура нейронної мережі
 ![nn-shema](nn-shema.jpg)
 
 IL=784, HL1=128, HL2=256, OL=10
 
-Графік процесу навчання
+## Графік процесу навчання
 ![hw08-loss-acc](hw08-loss-acc.png)
-Результати навчання (classification_report)
+
+## Результати навчання (classification report)
 ```
                precision    recall   f1-score   support
 
@@ -42,11 +42,12 @@ IL=784, HL1=128, HL2=256, OL=10
    macro avg       0.94      0.94      0.94     10000
 weighted avg       0.94      0.94      0.94     10000
 ```
-Результати навчання (Confusion Matrix)
+
+## Результати навчання (Confusion Matrix)
 
 ![hw-08-confm](hw-08-confm.png)
 
-Візуалізація результатів предбачення
+## Візуалізація результатів предбачення
 
 ![hw-08-pred-imgs](hw-08-pred-imgs.png)
 

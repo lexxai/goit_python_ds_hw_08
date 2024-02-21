@@ -11,7 +11,7 @@
 - Побудувати необхідні графіки.
 - Знайти втрати мережі.
 - Протестувати роботу мережі на тестових даних.
-- Виведіть метрики якості для кожного класу навченої моделі, використовуючи https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+- Виведіть метрики якості для кожного класу навченої моделі, використовуючи [classification_report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html).
 - Зробити висновки.
 
 # Результати
